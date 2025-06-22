@@ -23,7 +23,8 @@ The goal is to clean raw sales data, analyze it, and create a **dynamic dashboar
 ---
 ## 📷 Screenshots
 *(Attach a screenshot of your dashboard or charts here)*  
-`[Upload your .png or screenshot here]`
+`[![Screenshot (10)](https://github.com/user-attachments/assets/bc044adc-72f8-40c6-95ed-b03370aefee2)
+]`
 ---
 ## 🎯 Learning Outcomes
 
